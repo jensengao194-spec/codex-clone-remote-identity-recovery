@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+recovery-local/
+*.local.json
+backup-after-exit-*/
+execution.log
+result.json
+.codex/
+auth.json
+config.toml
+*.sqlite*
+.DS_Store
